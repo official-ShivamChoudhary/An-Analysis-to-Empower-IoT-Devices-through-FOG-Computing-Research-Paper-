@@ -1,5 +1,5 @@
 # An-Analysis-to-Empower-IoT-Devices-through-FOG-Computing-Research-Paper
-# Research Paper Published on 2 Dec 2021
+# Research Paper Published on 2nd Dec 2021
 
 https://ieeexplore.ieee.org/author/37089029792
 
